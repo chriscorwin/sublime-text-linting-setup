@@ -84,19 +84,9 @@ See my [.eslintrc](./sublime-settings-files/dot-eslintrc) file.
 
 From the [docs](http://sublimelinter.readthedocs.io/en/latest/usage.html#choosing-color-schemes).
 
-> In order to color errors, warnings and gutter icons correctly,
-> SublimeLinter relies on specific named colors being available in the
-> current color scheme. Whenever a color scheme is loaded — either implicitly
-> at startup or by selecting a color scheme — SublimeLinter checks to see if
-> the color scheme contains its named colors. If not, it adds those colors to
-> a copy of the color scheme, writes it to the `Packages/User/SublimeLinter`
-> directory with a “ (SL)” suffix added to the filename, and switches to the
-> modified color scheme.>
-> For example, if you select Preferences > Color Scheme > Color Scheme -
-> Default > Monokai, SublimeLinter will convert it, write the converted color
-> scheme to `Packages/User/SublimeLinter/Monokai (SL).tmTheme`, and switch to
-> that color scheme. If you then open the Preferences > Color Scheme menu,
-> User > SublimeLinter > Monokai (SL) is checked.
+> In order to color errors, warnings and gutter icons correctly, SublimeLinter relies on specific named colors being available in the current color scheme. Whenever a color scheme is loaded — either implicitly at startup or by selecting a color scheme — SublimeLinter checks to see if the color scheme contains its named colors. If not, it adds those colors to a copy of the color scheme, writes it to the `Packages/User/SublimeLinter` directory with a “ (SL)” suffix added to the filename, and switches to the modified color scheme.
+>
+> For example, if you select Preferences > Color Scheme > Color Scheme - Default > Monokai, SublimeLinter will convert it, write the converted color scheme to `Packages/User/SublimeLinter/Monokai (SL).tmTheme`, and switch to that color scheme. If you then open the Preferences > Color Scheme menu, User > SublimeLinter > Monokai (SL) is checked.
 
 
 
