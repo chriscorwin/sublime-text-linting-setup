@@ -16,7 +16,9 @@ These, combined with the [Babel Syntax definitions for ES6 JavaScript with React
 ## Sublime Linter Settings
 
 ### Installing
-[Installing SublimeLinter](http://sublimelinter.readthedocs.io/en/latest/installation.html)
+
+**DO NOT SKIP READING THIS PART:** [Installing SublimeLinter](http://sublimelinter.readthedocs.io/en/latest/installation.html)
+
 
 ### Settings
 
