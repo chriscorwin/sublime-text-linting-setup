@@ -24,10 +24,10 @@ These, combined with the [Babel Syntax definitions for ES6 JavaScript with React
 
 For general information on how SublimeLinter works with settings, please see [Settings][settings]. For information on generic linter settings, please see [Linter Settings][linter-settings].
 
-
-See my [SublimeLinter.sublime-settings](./sublime-settings-files/SublimeLinter.sublime-settings) file.
-
 Default Mac OS X path: `~/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings`
+
+
+See my [SublimeLinter.sublime-settings](./sublime-settings-files/SublimeLinter.sublime-settings) file for how I have mine set up.
 
 **To edit yours:**
 
@@ -48,9 +48,8 @@ To install via Package Control, do the following:
 
 ## ESLint Formatter Sublime Settings
 
-[ESLint-Formatter.sublime-settings](./sublime-settings-files/ESLint-Formatter.sublime-settings)
 
-Default Mac OS X path: `~/Library/Application Support/Sublime Text 3/Packages/User/ESLint-Formatter.sublime-settings`
+See my [ESLint-Formatter.sublime-settings](./sublime-settings-files/ESLint-Formatter.sublime-settings) file.
 
 **Note this bit from that file:**
 
@@ -63,6 +62,8 @@ Default Mac OS X path: `~/Library/Application Support/Sublime Text 3/Packages/Us
 
 Once I pointed it directly to the `eslint-config-slds/index.js` file, it started using the settings correctly. No other amount of voodoo or incantations seemed to work.
 
+
+Default Mac OS X path: `~/Library/Application Support/Sublime Text 3/Packages/User/ESLint-Formatter.sublime-settings`
 
 To edit yours:
 
