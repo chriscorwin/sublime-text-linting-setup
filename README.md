@@ -34,7 +34,7 @@ Default Mac OS X path: `~/Library/Application Support/Sublime Text 3/Packages/Us
 
 To edit yours:
 
-![Alt text](./sublime-lint-prefs--eslint-formatter-prefs-mousing.png "Sublime Text Linting: Mousing to the ESLint Formatter Preferences")
+![Alt text](./images/sublime-lint-prefs--eslint-formatter-prefs-mousing.png "Sublime Text Linting: Mousing to the ESLint Formatter Preferences")
 
 Note that the only way I've gotten it to find my local eslint is to set it for a specific project in the formatters "global" file. :( This is annoying, but it works.
 
