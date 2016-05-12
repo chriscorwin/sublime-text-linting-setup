@@ -21,6 +21,9 @@
 File lives at: `~/Library/Application Support/Sublime Text 3/Packages/User/ESLint-Formatter.sublime-settings`
 
 To edit:
+
+![Alt text](./sublime-lint-prefs--eslint-formatter-prefs-mousing.png "Sublime Text Linting: Mousing to the ESLint Formatter Preferences")
+
 ```
 	{
 		// Simply using `node` without specifying a path sometimes doesn't work :(
